@@ -10,7 +10,7 @@ if (floor(phpversion()) < 5)
 
 /*
 |---------------------------------------------------------------
-| PHP ERROR REPORTING LEVEL
+| PHP ERROR REPORTING LEVEL DEFINITION
 |---------------------------------------------------------------
 |
 | By default CI runs with error reporting set to ALL.  For security
