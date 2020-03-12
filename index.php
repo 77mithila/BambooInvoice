@@ -6,6 +6,7 @@ if (floor(phpversion()) < 5)
 }
 /**
  * Bandnew change
+ * Another change
  */
 
 /*
